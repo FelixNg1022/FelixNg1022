@@ -1,16 +1,9 @@
-### Hi there! 👋 My name is Felix! :))
+### Hi there! 👋 My name is Felix!
 
+I'm a 2nd-year CS + Business student at UBC. Welcome to my GitHub!
 
-**FelixNg1022/FelixNg1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: wuchuoxi@gmail.com
+- 🧳 How to find me: linkedin.com/in/felixng1022
+- 📫 How to reach me: FelixNg1022@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 -->

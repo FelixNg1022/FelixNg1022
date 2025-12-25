@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FelixNg1022&theme=dracula&hide_border=false&include_all_commits=false&count_private=True)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FelixNg1022&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixNg1022&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixNg1022&theme=dracula&hide_border=false&include_all_commits=false&count_private=True&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
